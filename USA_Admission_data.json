@@ -1,207 +1,249 @@
  [
     {
+      "id": 1,
       "name": "Harvard University",
       "deadline": "1-Nov-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 2,
       "name": "California Institute of Technology",
       "deadline": "Nov 15, 2023- Jan 1, 2024 (Depends on the course)",
       "IELTS_required": "Yes"
     },
     {
+      "id": 3,
       "name": "Yale University",
       "deadline": "April 15, 2024",
       "IELTS_required": "Yes"
     },
     {
+      "id": 4,
       "name": "Massachusetts Institute of Technology",
       "deadline": "1-Nov-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 5,
       "name": "Johns Hopkins University",
       "deadline": "1-Jun-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 6,
       "name": "University of Pennsylvania",
       "deadline": "1-Apr-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 7,
       "name": "Stanford",
       "deadline": "1 Nov, 2024",
       "IELTS_required": "Yes"
     },
     {
+      "id": 8,
       "name": "Princeton University",
       "deadline": "15-Dec-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 9,
       "name": "Brown University",
       "deadline": "1-Feb-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 10,
       "name": "Columbia University",
       "deadline": "15-Jun-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 11,
       "name": "Princeton University",
       "deadline": "15-Dec-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 12,
       "name": "University of Michigan-Ann Arbor",
       "deadline": "1-Feb-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 13,
       "name": "New York University",
       "deadline": "15-Mar",
       "IELTS_required": "Yes"
     },
     {
+      "id": 14,
       "name": "Northwestern University",
       "deadline": "15-Feb-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 15,
       "name": "Carnegie Mellon University",
       "deadline": "1-Nov-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 16,
       "name": "DUKE UNIVERSITY",
       "deadline": "4-Apr-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 17,
       "name": "University of Texas at Austin",
       "deadline": "1-Sep-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 18,
       "name": "University of California, San Diego",
       "deadline": "31-Mar-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 19,
       "name": "University of Washington",
       "deadline": "15-Nov-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 20,
       "name": "University of Illinois at Urbana-Champaign",
       "deadline": "June 1, 2024",
       "IELTS_required": "Yes"
     },
     {
+      "id": 21,
       "name": "Boston University",
       "deadline": "1-Aug-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 22,
       "name": "Georgia Institute of Technology",
       "deadline": "1-Nov-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 23,
       "name": "Purdue University",
       "deadline": "1-Nov-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 24,
       "name": "University of Wisconsin-Madison",
       "deadline": "1-Oct-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 25,
       "name": "University of Southern California",
       "deadline": "January 15, 2024",
       "IELTS_required": "Yes"
     },
     {
+      "id": 26,
       "name": "University of North Carolina, Chapel Hill",
       "deadline": "15-Oct",
       "IELTS_required": "Yes"
     },
     {
+      "id": 27,
       "name": "Texas A&M University",
       "deadline": "May 1, 2024",
       "IELTS_required": "Yes"
     },
     {
+      "id": 28,
       "name": "Michigan State University",
       "deadline": "17 Feb, 2025",
       "IELTS_required": "Yes"
     },
     {
+      "id": 29,
       "name": "Rice University",
       "deadline": "4-Jan-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 30,
       "name": "Ohio State University",
       "deadline": "August 1, 2024",
       "IELTS_required": "Yes"
     },
     {
+      "id": 31,
       "name": "University of Maryland, College Park",
       "deadline": "1-Jun-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 32,
       "name": "University of Minnesota, Twin Cities",
       "deadline": "1-Nov-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 33,
       "name": "University of Pittsburgh",
       "deadline": "1-Oct-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 34,
       "name": "University of Rochester",
       "deadline": "5-Jan-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 35,
       "name": "University of Massachusetts",
       "deadline": "Aug 1, 2024",
       "IELTS_required": "Yes"
     },
     {
+      "id": 36,
       "name": "Case Western Reserve",
       "deadline": "01 Nov, 2024",
       "IELTS_required": "Yes"
     },
     {
+      "id": 37,
       "name": "University of Arizona",
       "deadline": "1-May-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 38,
       "name": "Virginia Polytechnic Institute",
       "deadline": "1-May-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 39,
       "name": "University of Miami",
       "deadline": "2-Aug-24",
       "IELTS_required": "Yes"
     },
     {
+      "id": 40,
       "name": "University of Notre Dame",
       "deadline": "12 Sep, 2024",
       "IELTS_required": "Yes"
     },
     {
+      "id": 41,
       "name": "Indiana University Bloomington",
       "deadline": "1-Feb-24",
       "IELTS_required": "Yes"
     }
   ]
+
